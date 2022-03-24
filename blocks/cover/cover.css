@@ -1,0 +1,50 @@
+@import url(./__background/cover__background.css);
+@import url(./__subtitle/cover__subtitle.css);
+@import url(./__title/cover__title.css);
+
+.cover {
+  max-width: 100%;
+  min-height: 740px;
+  display: flex;
+  max-width: 100%;
+  background: url(../../images/cover/cover-trains.jpg) center center no-repeat;
+  background-size: cover;
+  margin: 92px auto 0; 
+  align-items: stretch;
+}
+
+
+@media screen and (min-width: 1280px) {
+  .cover{
+    max-width: 1184px;
+  }
+}
+
+@media screen and (max-width: 1279px) {
+  .cover{
+    max-width: 100%;
+    min-height: 640px;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .cover{
+    margin-top: 90px;
+    max-width: 100%;
+    min-height: 540px;
+  }
+}
+
+@media screen and (max-width: 786px) {
+  .cover{
+    margin-top: 90px;
+    max-width: 100%;
+    min-height: 480px;
+  }
+}
+@media screen and (max-width: 425px) {
+  .cover{
+    margin-top: 66px;
+    min-height: 200px;
+  }
+}

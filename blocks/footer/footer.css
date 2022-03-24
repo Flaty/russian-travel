@@ -1,0 +1,35 @@
+@import url(./__copyright/footer__copyright.css);
+@import url(./__link/footer__link.css);
+@import url(./__links/footer__links.css);
+
+.footer{
+  display: flex;
+  margin: 92px auto 0;
+  max-width: 1184px;
+  align-items: center;
+  justify-content: space-between;
+  padding-bottom: 24px;
+}
+
+@media screen and (max-width: 1279px) {
+  .footer{
+    max-width: 90.625%;
+  }
+  
+}
+
+@media screen and (max-width: 1023px) {
+  .footer{
+    max-width: 93.75%;
+  }
+  
+}
+
+
+@media screen and (max-width: 425px) {
+  .footer{
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+}
