@@ -3,7 +3,7 @@
   flex-wrap: wrap;
   gap: 18px;
   list-style: none;
-  padding: 0;;
+  padding: 0;
 }
 
 @media screen and (max-width: 450px) {

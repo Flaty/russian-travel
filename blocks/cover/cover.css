@@ -1,16 +1,13 @@
 @import url(./__background/cover__background.css);
 @import url(./__subtitle/cover__subtitle.css);
-@import url(./__title/cover__title.css);
 
 .cover {
   max-width: 100%;
   min-height: 740px;
   display: flex;
-  max-width: 100%;
   background: url(../../images/cover/cover-trains.jpg) center center no-repeat;
   background-size: cover;
-  margin: 92px auto 0; 
-  align-items: stretch;
+  margin: 92px auto 0;
 }
 
 
