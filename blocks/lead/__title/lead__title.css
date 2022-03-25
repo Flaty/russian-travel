@@ -1,9 +1,7 @@
-
 .lead__title{
   font-family: 'Inter';
-  font-weight: normal;
   max-width: 720px;
-  font-style: 900;
+  font-weight: 900;
   font-size: 96px;
   line-height: 100px;
   text-align: center;

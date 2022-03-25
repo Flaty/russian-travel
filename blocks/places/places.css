@@ -1,12 +1,3 @@
-@import url(../places/place/place.css);
-@import url(../places/__image/place__image.css);
-@import url(../places/__link/place__link.css);
-@import url(../places/__paragraph/place__paragraph.css);
-@import url(../places/__url-heading/place__url-heading.css);
-@import url(../places/__website/place__website.css);
-@import url(../places/__title/place__title.css);
-
-
 .places{
   display: grid;
   margin: 92px auto 0px;
