@@ -1,6 +1,5 @@
-.lead__image{
+.lead__image {
   max-width: 100%;
-  margin-bottom: 8px;
+  padding: 0;
+  margin: 0;
 }
-
-
