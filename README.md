@@ -9,4 +9,4 @@
 
 **Сам сайт**
 
-* [Ссылка на макет в Figma](https://flaty.github.io/russian-travel/)
+* [Ссылка на сам сайт](https://flaty.github.io/russian-travel/)
