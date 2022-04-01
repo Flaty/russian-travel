@@ -15,7 +15,6 @@
   position: relative;
 }
 
-
 .cover__background::before {
   content: "";
   background-color: #2A2C2F;

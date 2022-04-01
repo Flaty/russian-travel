@@ -10,7 +10,6 @@
   max-width: 456px;
 }
 
-
 @media screen  and (max-width: 768px) {
   .place__paragraph{
     grid-column: auto;

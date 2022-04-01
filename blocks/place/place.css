@@ -36,13 +36,4 @@
       max-width: 100%;
       gap: 32px;
   }
-  .place:first-child{
-    margin-bottom: 78px;
-  }
-  .place:nth-last-of-type(2n){
-    margin-bottom: 75px;
-  }
-  .place:nth-last-of-type(4n){
-    margin-bottom: 49px;
-  }
 }
