@@ -1,5 +1,4 @@
-.place__title{
-  font-family: 'Inter';
+.place__title {
   font-style: normal;
   font-weight: 900;
   font-size: 72px;
@@ -8,17 +7,16 @@
   margin: 0;
 }
 
-@media screen and (max-width: 768px){
-  .place__title{
-    font-size: 42px;
-    margin-left: calc(16px + (24 - 16) * ((100vw - 320px) / (768 - 320)));
+@media screen and (max-width: 768px) {
+  .place__title {
+      font-size: 42px;
+      margin-left: calc(16px + (24 - 16) * ((100vw - 320px) / (768 - 320)));
   }
-  
 }
 
 @media screen and (max-width: 320px) {
-  .place__title{
-    font-size: 32px;
-    margin-left: 16px;
+  .place__title {
+      font-size: 32px;
+      margin-left: 16px;
   }
 }

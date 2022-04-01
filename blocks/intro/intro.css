@@ -9,7 +9,6 @@
       margin-top: 92px;
       max-width: 928px;
   }
-
 }
 
 @media screen and (max-width: 1023px) {
@@ -17,19 +16,16 @@
       margin-top: 88px;
       max-width: 93.5%;
   }
-
 }
 
 @media screen and (max-width: 767px) {
   .intro {
       max-width: 93.75%;
   }
-
 }
 
 @media screen and (max-width: 425px) {
   .intro {
       margin: 64px 16px 0;
   }
-
 }
